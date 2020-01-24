@@ -1,0 +1,6 @@
+--exclude BuildTools,Carthage
+
+--header strip
+--enable isEmpty
+--indent 2
+--disable redundantReturn
